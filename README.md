@@ -4,7 +4,7 @@
 - 🎓 First-year Computer Science and Artificial Intelligence undergrad
 - 🔭 Beginner in the world of tech, exploring as i navigate
 - 🌱 Currently learning : Web Development & Open Source
-- 🧩 Building beginner friendly projects
+- 🧩 Building interesting projects
 
-📌 [ https://www.codechef.com/users/prachi_builds ] 
-📌 [ https;//www.linkedin.com/in/prachi-aggarwal-18o2 ]
+📌 [ https://leetcode.com/u/weeebug/ ] 
+📌 [ https;//www.linkedin.com/in/prachi-aggarwal-dev ]
